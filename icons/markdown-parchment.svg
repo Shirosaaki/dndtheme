@@ -1,0 +1,17 @@
+<svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Parchment base -->
+  <rect x="2" y="2" width="12" height="12" rx="1" fill="#e8dcc0"/>
+  <!-- Aged edges -->
+  <rect x="2" y="2" width="12" height="1" fill="#d4af37"/>
+  <rect x="2" y="13" width="12" height="1" fill="#d4af37"/>
+  <rect x="2" y="2" width="1" height="12" fill="#d4af37"/>
+  <rect x="13" y="2" width="1" height="12" fill="#d4af37"/>
+  <!-- Markdown text -->
+  <text x="8" y="9" text-anchor="middle" font-family="monospace" font-size="6" font-weight="bold" fill="#333333">M</text>
+  <!-- Quill decorations -->
+  <path d="M4 5 L5 4 L6 5" stroke="#8b4513" stroke-width="0.5" fill="none"/>
+  <path d="M10 5 L11 4 L12 5" stroke="#8b4513" stroke-width="0.5" fill="none"/>
+  <!-- Ink spots -->
+  <circle cx="4.5" cy="11" r="0.3" fill="#333333"/>
+  <circle cx="11.5" cy="11" r="0.3" fill="#333333"/>
+</svg>

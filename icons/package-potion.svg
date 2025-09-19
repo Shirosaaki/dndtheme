@@ -1,0 +1,16 @@
+<svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Potion bottle -->
+  <path d="M6 2 L6 4 L4 6 L4 12 C4 13 5 14 6 14 L10 14 C11 14 12 13 12 12 L12 6 L10 4 L10 2 Z" fill="#2d7d32"/>
+  <!-- Potion contents -->
+  <path d="M5 7 L5 12 C5 12.5 5.5 13 6 13 L10 13 C10.5 13 11 12.5 11 12 L11 7 Z" fill="#4caf50"/>
+  <!-- Package text -->
+  <text x="8" y="10" text-anchor="middle" font-family="monospace" font-size="3" font-weight="bold" fill="#ffffff">PKG</text>
+  <!-- Cork -->
+  <rect x="7" y="1" width="2" height="2" fill="#8b4513"/>
+  <!-- Bubbles -->
+  <circle cx="6.5" cy="8" r="0.3" fill="#81c784"/>
+  <circle cx="9.5" cy="9" r="0.3" fill="#81c784"/>
+  <circle cx="7.5" cy="11" r="0.3" fill="#81c784"/>
+  <!-- Label -->
+  <rect x="6" y="5" width="4" height="1.5" fill="#ffffff"/>
+</svg>

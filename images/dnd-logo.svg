@@ -1,0 +1,43 @@
+<svg width="128" height="128" viewBox="0 0 128 128" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background circle -->
+  <circle cx="64" cy="64" r="64" fill="#1a1611"/>
+  <circle cx="64" cy="64" r="58" fill="#2d1b3d"/>
+  
+  <!-- D20 die in center -->
+  <polygon points="64,15 95,30 85,85 43,85 33,30" fill="#d4af37"/>
+  <polygon points="64,15 85,30 64,60" fill="#c9a96e"/>
+  <polygon points="64,15 43,30 64,60" fill="#b8956a"/>
+  <polygon points="64,60 85,30 85,85" fill="#a0842f"/>
+  <polygon points="64,60 43,30 43,85" fill="#8b732a"/>
+  <polygon points="64,60 43,85 85,85" fill="#756225"/>
+  
+  <!-- D20 number -->
+  <text x="64" y="50" text-anchor="middle" font-family="serif" font-size="20" font-weight="bold" fill="#1a1611">20</text>
+  
+  <!-- D&D Text -->
+  <text x="64" y="105" text-anchor="middle" font-family="serif" font-size="14" font-weight="bold" fill="#d4af37">D&amp;D</text>
+  <text x="64" y="118" text-anchor="middle" font-family="serif" font-size="8" fill="#c9a96e">THEME</text>
+  
+  <!-- Decorative elements -->
+  <circle cx="25" cy="25" r="4" fill="#cc6666"/>
+  <circle cx="103" cy="25" r="4" fill="#6aa04a"/>
+  <circle cx="25" cy="103" r="4" fill="#5f819d"/>
+  <circle cx="103" cy="103" r="4" fill="#b294bb"/>
+  
+  <!-- Additional dice around the border -->
+  <polygon points="20,40 25,42 23,48 17,48 15,42" fill="#cc6666"/>
+  <text x="20" y="46" text-anchor="middle" font-family="serif" font-size="6" fill="#ffffff">6</text>
+  
+  <polygon points="108,40 113,42 111,48 105,48 103,42" fill="#6aa04a"/>
+  <text x="108" y="46" text-anchor="middle" font-family="serif" font-size="6" fill="#ffffff">8</text>
+  
+  <polygon points="20,88 25,90 23,96 17,96 15,90" fill="#5f819d"/>
+  <text x="20" y="94" text-anchor="middle" font-family="serif" font-size="6" fill="#ffffff">12</text>
+  
+  <polygon points="108,88 113,90 111,96 105,96 103,90" fill="#b294bb"/>
+  <text x="108" y="94" text-anchor="middle" font-family="serif" font-size="6" fill="#ffffff">4</text>
+  
+  <!-- Mystical border -->
+  <circle cx="64" cy="64" r="62" fill="none" stroke="#d4af37" stroke-width="2"/>
+  <circle cx="64" cy="64" r="59" fill="none" stroke="#8b732a" stroke-width="1"/>
+</svg>

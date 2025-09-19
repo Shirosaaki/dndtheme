@@ -1,0 +1,15 @@
+<svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Ancient tome base -->
+  <rect x="2" y="2" width="10" height="12" rx="1" fill="#8b4513"/>
+  <rect x="3" y="3" width="8" height="10" fill="#d4af37"/>
+  <!-- JavaScript JS text -->
+  <text x="7" y="9" text-anchor="middle" font-family="monospace" font-size="5" font-weight="bold" fill="#f7df1e">JS</text>
+  <!-- Binding -->
+  <rect x="1" y="7" width="1" height="3" fill="#654321"/>
+  <rect x="12" y="7" width="1" height="3" fill="#654321"/>
+  <!-- Decorative corners -->
+  <polygon points="3,3 4,3 3,4" fill="#8b4513"/>
+  <polygon points="11,3 10,3 11,4" fill="#8b4513"/>
+  <polygon points="3,13 4,13 3,12" fill="#8b4513"/>
+  <polygon points="11,13 10,13 11,12" fill="#8b4513"/>
+</svg>

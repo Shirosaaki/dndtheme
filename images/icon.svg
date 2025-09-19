@@ -1,0 +1,28 @@
+<svg width="128" height="128" viewBox="0 0 128 128" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background circle -->
+  <circle cx="64" cy="64" r="64" fill="#1a1611"/>
+  <circle cx="64" cy="64" r="56" fill="#2d1b3d"/>
+  
+  <!-- D20 die in center -->
+  <polygon points="64,20 90,35 80,80 48,80 38,35" fill="#d4af37"/>
+  <polygon points="64,20 80,35 64,55" fill="#c9a96e"/>
+  <polygon points="64,20 48,35 64,55" fill="#b8956a"/>
+  <polygon points="64,55 80,35 80,80" fill="#a0842f"/>
+  <polygon points="64,55 48,35 48,80" fill="#8b732a"/>
+  <polygon points="64,55 48,80 80,80" fill="#756225"/>
+  
+  <!-- D20 number -->
+  <text x="64" y="50" text-anchor="middle" font-family="serif" font-size="16" font-weight="bold" fill="#1a1611">20</text>
+  
+  <!-- Decorative elements -->
+  <circle cx="30" cy="30" r="3" fill="#cc6666"/>
+  <circle cx="98" cy="30" r="3" fill="#6aa04a"/>
+  <circle cx="30" cy="98" r="3" fill="#5f819d"/>
+  <circle cx="98" cy="98" r="3" fill="#b294bb"/>
+  
+  <!-- Border -->
+  <circle cx="64" cy="64" r="62" fill="none" stroke="#d4af37" stroke-width="2"/>
+  
+  <!-- VS Code text -->
+  <text x="64" y="105" text-anchor="middle" font-family="monospace" font-size="10" font-weight="bold" fill="#c9a96e">D&amp;D THEME</text>
+</svg>

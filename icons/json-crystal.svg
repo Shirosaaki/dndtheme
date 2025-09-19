@@ -1,0 +1,14 @@
+<svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Crystal base -->
+  <polygon points="8,2 12,6 8,14 4,6" fill="#5fb3b3"/>
+  <polygon points="8,2 10,5 8,8 6,5" fill="#81c784"/>
+  <!-- Inner glow -->
+  <polygon points="8,4 9,6 8,9 7,6" fill="#d4af37"/>
+  <!-- JSON text -->
+  <text x="8" y="11" text-anchor="middle" font-family="monospace" font-size="4" font-weight="bold" fill="#ffffff">{}</text>
+  <!-- Magical sparkles -->
+  <circle cx="11" cy="4" r="0.5" fill="#ffffff"/>
+  <circle cx="5" cy="4" r="0.5" fill="#ffffff"/>
+  <circle cx="10" cy="10" r="0.5" fill="#ffffff"/>
+  <circle cx="6" cy="10" r="0.5" fill="#ffffff"/>
+</svg>

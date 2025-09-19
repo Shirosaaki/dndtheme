@@ -1,0 +1,25 @@
+<svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Royal decree scroll -->
+  <rect x="2" y="3" width="12" height="10" rx="1" fill="#f5f5dc"/>
+  <!-- Golden edges -->
+  <rect x="2" y="3" width="12" height="1" fill="#d4af37"/>
+  <rect x="2" y="12" width="12" height="1" fill="#d4af37"/>
+  <rect x="2" y="3" width="1" height="10" fill="#d4af37"/>
+  <rect x="13" y="3" width="1" height="10" fill="#d4af37"/>
+  <!-- Royal seal -->
+  <circle cx="8" cy="8" r="2.5" fill="#cc6666"/>
+  <circle cx="8" cy="8" r="1.8" fill="#ff8a80"/>
+  <!-- Crown in seal -->
+  <polygon points="7,7 8,6.5 9,7 9,8.5 7,8.5" fill="#d4af37"/>
+  <circle cx="7.3" cy="7" r="0.2" fill="#d4af37"/>
+  <circle cx="8" cy="6.8" r="0.2" fill="#d4af37"/>
+  <circle cx="8.7" cy="7" r="0.2" fill="#d4af37"/>
+  <!-- LICENSE text -->
+  <text x="8" y="10.5" text-anchor="middle" font-family="serif" font-size="2.5" font-weight="bold" fill="#654321">LIC</text>
+  <!-- Scroll ends -->
+  <circle cx="2" cy="8" r="1.5" fill="#8b4513"/>
+  <circle cx="14" cy="8" r="1.5" fill="#8b4513"/>
+  <!-- Wax drips -->
+  <ellipse cx="6" cy="9.5" rx="0.3" ry="0.5" fill="#cc6666"/>
+  <ellipse cx="10" cy="9.5" rx="0.3" ry="0.5" fill="#cc6666"/>
+</svg>

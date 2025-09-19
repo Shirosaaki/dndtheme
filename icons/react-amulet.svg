@@ -1,0 +1,14 @@
+<svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Amulet base -->
+  <circle cx="8" cy="8" r="6" fill="#61dafb"/>
+  <circle cx="8" cy="8" r="4" fill="#20232a"/>
+  <!-- React atom symbol -->
+  <ellipse cx="8" cy="8" rx="5" ry="2" fill="none" stroke="#61dafb" stroke-width="0.8"/>
+  <ellipse cx="8" cy="8" rx="5" ry="2" fill="none" stroke="#61dafb" stroke-width="0.8" transform="rotate(60 8 8)"/>
+  <ellipse cx="8" cy="8" rx="5" ry="2" fill="none" stroke="#61dafb" stroke-width="0.8" transform="rotate(-60 8 8)"/>
+  <!-- Center core -->
+  <circle cx="8" cy="8" r="1" fill="#61dafb"/>
+  <!-- Magical chain -->
+  <rect x="7.5" y="1" width="1" height="2" fill="#d4af37"/>
+  <circle cx="8" cy="2" r="0.5" fill="#d4af37"/>
+</svg>

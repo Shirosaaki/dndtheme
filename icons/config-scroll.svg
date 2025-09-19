@@ -1,0 +1,20 @@
+<svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Config scroll -->
+  <rect x="2" y="3" width="12" height="10" rx="1" fill="#e8dcc0"/>
+  <!-- Scroll ends -->
+  <circle cx="2" cy="8" r="2" fill="#8b4513"/>
+  <circle cx="14" cy="8" r="2" fill="#8b4513"/>
+  <!-- Config symbol -->
+  <circle cx="8" cy="8" r="2" fill="none" stroke="#666666" stroke-width="1"/>
+  <circle cx="8" cy="8" r="1" fill="#666666"/>
+  <!-- Gear teeth -->
+  <rect x="7.5" y="5" width="1" height="1" fill="#666666"/>
+  <rect x="7.5" y="10" width="1" height="1" fill="#666666"/>
+  <rect x="5" y="7.5" width="1" height="1" fill="#666666"/>
+  <rect x="10" y="7.5" width="1" height="1" fill="#666666"/>
+  <!-- Corner decorations -->
+  <circle cx="5" cy="6" r="0.3" fill="#8b4513"/>
+  <circle cx="11" cy="6" r="0.3" fill="#8b4513"/>
+  <circle cx="5" cy="10" r="0.3" fill="#8b4513"/>
+  <circle cx="11" cy="10" r="0.3" fill="#8b4513"/>
+</svg>

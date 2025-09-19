@@ -1,0 +1,30 @@
+<svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Warrior's blade handle -->
+  <rect x="7.5" y="10" width="1" height="4" fill="#8b4513"/>
+  <rect x="7.3" y="10.5" width="1.4" height="0.3" fill="#654321"/>
+  <rect x="7.3" y="11.5" width="1.4" height="0.3" fill="#654321"/>
+  <rect x="7.3" y="12.5" width="1.4" height="0.3" fill="#654321"/>
+  <!-- Cross guard -->
+  <rect x="6" y="9.5" width="4" height="0.8" fill="#666666"/>
+  <rect x="6.2" y="9.7" width="3.6" height="0.4" fill="#999999"/>
+  <!-- Blade -->
+  <polygon points="8,2 8.8,9.5 7.2,9.5" fill="#c0c0c0"/>
+  <polygon points="8,2.5 8.4,9 7.6,9" fill="#e6e6e6"/>
+  <!-- Blood groove -->
+  <rect x="7.8" y="3" width="0.4" height="6" fill="#b0b0b0"/>
+  <!-- C logo etched in blade -->
+  <circle cx="8" cy="5.5" r="1" fill="none" stroke="#999999" stroke-width="0.3"/>
+  <text x="8" y="6" text-anchor="middle" font-family="serif" font-size="1.8" font-weight="bold" fill="#666666">C</text>
+  <!-- Pommel -->
+  <circle cx="8" cy="13.5" r="0.8" fill="#666666"/>
+  <circle cx="8" cy="13.5" r="0.5" fill="#999999"/>
+  <!-- Blade tip -->
+  <polygon points="8,2 8.2,2.5 7.8,2.5" fill="#ffffff"/>
+  <!-- Edge shine -->
+  <line x1="7.4" y1="3" x2="7.4" y2="9" stroke="#ffffff" stroke-width="0.2"/>
+  <line x1="8.6" y1="3" x2="8.6" y2="9" stroke="#ffffff" stroke-width="0.2"/>
+  <!-- Handle wrap -->
+  <circle cx="8" cy="11" r="0.1" fill="#d4af37"/>
+  <circle cx="8" cy="12" r="0.1" fill="#d4af37"/>
+  <circle cx="8" cy="13" r="0.1" fill="#d4af37"/>
+</svg>

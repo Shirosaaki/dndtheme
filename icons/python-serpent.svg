@@ -1,0 +1,16 @@
+<svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Serpent body -->
+  <path d="M2 8C2 8 4 6 6 8C8 10 10 6 12 8C14 10 14 8 14 8" stroke="#3776ab" stroke-width="2" fill="none"/>
+  <path d="M2 10C2 10 4 8 6 10C8 12 10 8 12 10C14 12 14 10 14 10" stroke="#ffd43b" stroke-width="1.5" fill="none"/>
+  <!-- Python head -->
+  <circle cx="13" cy="8" r="2" fill="#3776ab"/>
+  <circle cx="13" cy="8" r="1.5" fill="#ffd43b"/>
+  <!-- Eyes -->
+  <circle cx="12.5" cy="7.5" r="0.3" fill="#000000"/>
+  <circle cx="13.5" cy="7.5" r="0.3" fill="#000000"/>
+  <!-- Magical scales -->
+  <circle cx="6" cy="6" r="0.5" fill="#3776ab"/>
+  <circle cx="10" cy="10" r="0.5" fill="#ffd43b"/>
+  <circle cx="4" cy="9" r="0.3" fill="#3776ab"/>
+  <circle cx="8" cy="7" r="0.3" fill="#ffd43b"/>
+</svg>

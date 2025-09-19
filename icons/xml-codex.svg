@@ -1,0 +1,24 @@
+<svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Ancient codex base -->
+  <rect x="2" y="1" width="10" height="14" rx="1" fill="#8b4513"/>
+  <rect x="3" y="2" width="8" height="12" fill="#e8dcc0"/>
+  <!-- Metal binding -->
+  <rect x="1" y="4" width="2" height="8" fill="#666666"/>
+  <circle cx="2" cy="6" r="0.3" fill="#d4af37"/>
+  <circle cx="2" cy="8" r="0.3" fill="#d4af37"/>
+  <circle cx="2" cy="10" r="0.3" fill="#d4af37"/>
+  <!-- XML structure -->
+  <text x="5" y="5" font-family="monospace" font-size="2" fill="#cc6666">&lt;root&gt;</text>
+  <text x="5.5" y="7" font-family="monospace" font-size="1.8" fill="#5f819d">&lt;node&gt;</text>
+  <text x="6" y="8.5" font-family="monospace" font-size="1.5" fill="#6aa04a">data</text>
+  <text x="5.5" y="10" font-family="monospace" font-size="1.8" fill="#5f819d">&lt;/node&gt;</text>
+  <text x="5" y="11.5" font-family="monospace" font-size="2" fill="#cc6666">&lt;/root&gt;</text>
+  <!-- Mystical corners -->
+  <polygon points="3,2 4,2 3,3" fill="#b294bb"/>
+  <polygon points="11,2 10,2 11,3" fill="#b294bb"/>
+  <polygon points="3,14 4,14 3,13" fill="#b294bb"/>
+  <polygon points="11,14 10,14 11,13" fill="#b294bb"/>
+  <!-- Ancient symbols -->
+  <circle cx="9.5" cy="4" r="0.2" fill="#d4af37"/>
+  <circle cx="9.5" cy="12" r="0.2" fill="#d4af37"/>
+</svg>

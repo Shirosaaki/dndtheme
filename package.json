@@ -1,0 +1,74 @@
+{
+  "name": "dnd-theme",
+  "displayName": "D&D Theme",
+  "description": "A fantasy-themed VS Code extension with D&D inspired colors and icons",
+  "version": "1.0.0",
+  "publisher": "dnd-theme-creator",
+  "icon": "images/dnd-logo.png",
+  "galleryBanner": {
+    "color": "#1a1611",
+    "theme": "dark"
+  },
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "dnd",
+    "dungeons and dragons",
+    "fantasy",
+    "theme",
+    "dark theme",
+    "icons",
+    "medieval",
+    "rpg",
+    "dark",
+    "color-theme"
+  ],
+  "activationEvents": [],
+  "main": "./extension.js",
+  "contributes": {
+    "themes": [
+      {
+        "label": "D&D Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dnd-dark-color-theme.json"
+      }
+    ],
+    "iconThemes": [
+      {
+        "id": "dnd-icons",
+        "label": "D&D Icons",
+        "path": "./icons/dnd-icon-theme.json"
+      }
+    ],
+    "commands": [
+      {
+        "command": "dnd-theme.applyTheme",
+        "title": "🐉 Apply D&D Theme",
+        "category": "D&D Theme"
+      }
+    ]
+  },
+  "scripts": {
+    "package": "vsce package"
+  },
+  "devDependencies": {
+    "vsce": "^2.15.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/your-username/dnd-theme.git"
+  },
+  "bugs": {
+    "url": "https://github.com/your-username/dnd-theme/issues"
+  },
+  "homepage": "https://github.com/your-username/dnd-theme#readme",
+  "license": "MIT",
+  "author": "",
+  "dependencies": {
+    "@vscode/vsce": "^3.6.0"
+  }
+}

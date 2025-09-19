@@ -1,0 +1,16 @@
+<svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Stone tablet base -->
+  <path d="M3 2 L13 2 L13 12 L10 14 L3 14 Z" fill="#6b5b73"/>
+  <path d="M4 3 L12 3 L12 11 L9.5 12.5 L4 12.5 Z" fill="#8b7d6b"/>
+  <!-- Git runes -->
+  <circle cx="6" cy="6" r="1.5" fill="#ff6b6b"/>
+  <circle cx="10" cy="6" r="1.5" fill="#4ecdc4"/>
+  <circle cx="8" cy="9" r="1.5" fill="#45b7d1"/>
+  <!-- Connecting lines (branches) -->
+  <line x1="6" y1="6" x2="8" y2="9" stroke="#d4af37" stroke-width="1"/>
+  <line x1="10" y1="6" x2="8" y2="9" stroke="#d4af37" stroke-width="1"/>
+  <!-- Ancient markings -->
+  <rect x="5" y="4" width="0.5" height="0.5" fill="#d4af37"/>
+  <rect x="10.5" y="4" width="0.5" height="0.5" fill="#d4af37"/>
+  <rect x="7.5" y="11" width="0.5" height="0.5" fill="#d4af37"/>
+</svg>

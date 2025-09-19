@@ -1,0 +1,24 @@
+<svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Treant trunk -->
+  <ellipse cx="8" cy="12" rx="3" ry="2" fill="#8b4513"/>
+  <rect x="6.5" y="6" width="3" height="6" fill="#a0522d"/>
+  <!-- Tree crown -->
+  <circle cx="8" cy="6" r="4" fill="#6aa04a"/>
+  <circle cx="6" cy="5" r="2" fill="#4caf50"/>
+  <circle cx="10" cy="5" r="2" fill="#4caf50"/>
+  <circle cx="8" cy="4" r="2.5" fill="#388e3c"/>
+  <!-- Node.js hexagon -->
+  <polygon points="8,2 9.5,2.8 9.5,4.2 8,5 6.5,4.2 6.5,2.8" fill="#68a063"/>
+  <text x="8" y="4" text-anchor="middle" font-family="monospace" font-size="2" font-weight="bold" fill="#ffffff">N</text>
+  <!-- Tree features -->
+  <circle cx="6.5" cy="5.5" r="0.3" fill="#ffeb3b"/>
+  <circle cx="9.5" cy="5.5" r="0.3" fill="#ffeb3b"/>
+  <circle cx="7.5" cy="7" r="0.3" fill="#ffeb3b"/>
+  <!-- Roots -->
+  <path d="M5 12 Q3 13 4 14" stroke="#654321" stroke-width="1" fill="none"/>
+  <path d="M11 12 Q13 13 12 14" stroke="#654321" stroke-width="1" fill="none"/>
+  <path d="M8 14 Q8 15 9 15" stroke="#654321" stroke-width="1" fill="none"/>
+  <!-- Bark texture -->
+  <rect x="6.8" y="8" width="0.3" height="1" fill="#654321"/>
+  <rect x="8.9" y="9" width="0.3" height="1" fill="#654321"/>
+</svg>

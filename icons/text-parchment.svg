@@ -1,0 +1,21 @@
+<svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Parchment base -->
+  <rect x="2" y="2" width="12" height="12" rx="1" fill="#f5f5dc"/>
+  <!-- Aged edges -->
+  <rect x="2" y="2" width="12" height="1" fill="#d4af37"/>
+  <rect x="2" y="13" width="12" height="1" fill="#d4af37"/>
+  <rect x="2" y="2" width="1" height="12" fill="#d4af37"/>
+  <rect x="13" y="2" width="1" height="12" fill="#d4af37"/>
+  <!-- Text lines -->
+  <rect x="4" y="5" width="8" height="0.5" fill="#654321"/>
+  <rect x="4" y="7" width="6" height="0.5" fill="#654321"/>
+  <rect x="4" y="9" width="7" height="0.5" fill="#654321"/>
+  <rect x="4" y="11" width="5" height="0.5" fill="#654321"/>
+  <!-- Quill mark -->
+  <path d="M10 4 L11 3 L11.5 3.5 L10.5 4.5" fill="#8b4513"/>
+  <!-- Ink spots -->
+  <circle cx="11" cy="8" r="0.2" fill="#654321"/>
+  <circle cx="5" cy="12" r="0.2" fill="#654321"/>
+  <!-- Corner fold -->
+  <polygon points="12,3 13,3 12,4" fill="#c9a96e"/>
+</svg>

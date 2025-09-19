@@ -1,0 +1,16 @@
+<svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Enchanted cloak -->
+  <path d="M8 2C5 2 3 4 3 7V14H13V7C13 4 11 2 8 2Z" fill="#CD6799"/>
+  <path d="M8 3C6 3 4.5 4.5 4.5 7V13H11.5V7C11.5 4.5 10 3 8 3Z" fill="#EE83BB"/>
+  <!-- SCSS text -->
+  <text x="8" y="9" text-anchor="middle" font-family="monospace" font-size="3.5" font-weight="bold" fill="#ffffff">SCSS</text>
+  <!-- Magical clasp -->
+  <circle cx="8" cy="5" r="1" fill="#d4af37"/>
+  <!-- Enchanted trim with sparkles -->
+  <rect x="4" y="11" width="8" height="0.5" fill="#d4af37"/>
+  <rect x="5" y="12" width="6" height="0.5" fill="#d4af37"/>
+  <circle cx="5" cy="10" r="0.3" fill="#ffffff"/>
+  <circle cx="11" cy="10" r="0.3" fill="#ffffff"/>
+  <circle cx="6.5" cy="11.5" r="0.3" fill="#ffffff"/>
+  <circle cx="9.5" cy="11.5" r="0.3" fill="#ffffff"/>
+</svg>
