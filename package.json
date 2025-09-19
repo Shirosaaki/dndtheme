@@ -3,7 +3,7 @@
   "displayName": "D&D Theme",
   "description": "A fantasy-themed VS Code extension with D&D inspired colors and icons",
   "version": "1.0.0",
-  "publisher": "dnd-theme-creator",
+  "publisher": "Shirosaaki",
   "icon": "images/dnd-logo.png",
   "galleryBanner": {
     "color": "#1a1611",
